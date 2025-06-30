@@ -1,6 +1,6 @@
 # 🎮 The Game — TryHackMe Challenge Writeup
 
-> Room: [The Game](https://tryhackme.com/room/thegame)  
+> Room: [The Game](https://tryhackme.com/room/hfb1thegame)
 > Difficulty: Easy  
 > Type: Reverse Engineering / CTF
 
